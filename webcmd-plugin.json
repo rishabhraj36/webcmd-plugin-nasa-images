@@ -2,5 +2,5 @@
   "name": "nasa-images",
   "version": "0.1.0",
   "description": "NASA Images commands for Webcmd",
-  "webcmd": ">=0.2.0"
+  "webcmd": ">=0.1.2"
 }

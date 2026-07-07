@@ -4,6 +4,6 @@
   "type": "module",
   "description": "NASA Images commands for Webcmd",
   "peerDependencies": {
-    "@agentrhq/webcmd": ">=0.2.0"
+    "@agentrhq/webcmd": ">=0.1.2"
   }
 }
